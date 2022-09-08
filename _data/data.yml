@@ -1,0 +1,106 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: ESTHER SKARIYA JOHN
+    tagline: Fresher, looking for a job in IT
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: esther.skariyajohn@gmail.com
+    phone: +91 7994600711
+    timezone: Asia/Kolkata Timezone
+    citizenship: Indian
+    website: estherskariya.github.io #do not add http://
+    linkedin: esther-sj
+    github: estherskariya
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Malayalam
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+        - idiom: Hindi
+          level: Professional
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Looking for a role that offers challenging and competitive environment allows 
+      me to utilize my skills and experience to achieve organizational and individual goals
+education:
+    title: Education
+    info:
+      - degree: MSW (Medical and Psychiatric)
+        university: Kalasalingam Academy of Research and Education, Virudhunagar, Tamilnadu
+        time: Aug 2020 - May 2022
+        details: |
+          8.92 CGPA
+      - degree: B.Sc Chemistry
+        university: University of Kerala, Kollam
+        time: Jun 2017 - May 2020
+        details: |
+          7.75 CGPA
+experiences:
+    title: Experiences
+    info:
+      - role: Field Executive
+        time: Jun 2022 - Sep 2022
+        company: Ray of Joy, Sholinganallur, Chennai
+        details: |
+          Creating awareness among the public regarding the crimes against children and women. 
+          And raising funds for unprivileged children. Organizing awareness campaigns regarding 
+          sex education. Supporting for the education of unprivileged children.
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: A STUDY ON THE EFFECTS OF INTERNET GAMING AMONG ADOLESCENTS IN KOLLAM DISTRICT OF KERALA
+        link: https://assets.researchsquare.com/files/rs-1863829/v1/252ad006-eaae-4ff2-a387-70877da25001.pdf?c=1660064909
+        tagline: "This was the main project of my PG"
+
+      - title: A COMPARATIVE STUDY ON INBREEDING DEFECTS AMONG INBRED CHILDREN AND NONINBRED CHILDREN IN KERALA
+        link: "#"
+        tagline: "This was a mini-project conducted during my frst year of PG"
+
+      - title: A COMPARATIVE STUDY ON THE CAPSAICIN CONTENT, MOISTURE CONTENT AND COLOUR VALUE ON DIFFERENT VARIETIES OF CHILLY
+        link: "#"
+        tagline: "This was my main project during the final year of UG"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed @Ansibler, 2022
